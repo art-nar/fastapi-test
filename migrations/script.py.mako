@@ -6,7 +6,7 @@ Create Date: ${create_date}
 
 """
 from typing import Sequence, Union
-
+import alembic_postgresql_enum
 from alembic import op
 import sqlalchemy as sa
 import sqlmodel

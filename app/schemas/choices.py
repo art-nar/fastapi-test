@@ -1,6 +1,5 @@
 from enum import Enum
 
-# перечень для 
 
 class LocationURLChoices(Enum):
     TERRASA = "терраса"
