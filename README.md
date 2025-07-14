@@ -1,7 +1,7 @@
 # 🍽️ FastAPI Table Reservation API
 
 Приложение для управления бронированием столиков в ресторане.  
-Разработано на FastAPI с использованием PostgreSQL, Alembic, Docker и docker-compose.
+Разработано на FastAPI с использованием PostgreSQL, SQLModel, Alembic, Docker и docker-compose.
 
 ---
 
